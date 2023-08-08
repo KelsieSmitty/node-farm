@@ -73,6 +73,10 @@ https://nodejs.org/en/download
    ```sh
    git clone https://github.com/KelsieSmitty/node-farm.git
    ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,12 +86,12 @@ https://nodejs.org/en/download
 
 In the project directory, you can run:
 
-### `node index.js`
+### `nodemon index.js`
 
 Runs the app in the development mode.\
 Open [http://localhost:4000](http://localhost:4000) to view it in your browser.
 
-You will need to close ther server and reload when you make changes.\
+Server will automatically reload when you make changes.\
 
 <!-- CONTACT -->
 
