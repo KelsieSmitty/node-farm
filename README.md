@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/KelsieSmitty/node-farm">
-    <img src="./src/images/node-farm-logo.png" alt="Logo" width="150" height="80">
+    <img src=".//images/node-farm-logo.png" alt="Logo" width="150" height="80">
   </a>
 
 <h3 align="center">Node Farm</h3>
@@ -41,8 +41,8 @@
 
 ## About The Project
 
-<img src="./src/images/node-farm-overview.png" alt="Logo" width="600" height="400">
-<img src="./src/images/node-farm-product.png" alt="Logo" width="600" height="400">
+<img src=".//images/node-farm-overview.png" alt="Logo" width="600" height="400">
+<img src=".//images/node-farm-product.png" alt="Logo" width="600" height="400">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
